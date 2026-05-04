@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.base.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.controls.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.fxml.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.graphics.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.media.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.swing.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx.web.jar",
+			"d:\\hocj\\BTL OOP\\openjfx-17.0.17_windows-x64_bin-sdk\\javafx-sdk-17.0.17\\lib\\javafx-swt.jar",
+			"d:\\hocj\\BTL OOP\\mysql-connector-j-9.5.0\\mysql-connector-j-9.5.0\\mysql-connector-j-9.5.0.jar"
+		]
+	}
+}
