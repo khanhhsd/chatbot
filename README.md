@@ -16,6 +16,8 @@ This is a local AI project with a focus on a Tkinter-based user interface, a mod
 
 1. Open the workspace in VS Code.
 2. Install any required Python dependencies for the UI app if needed.
+   pip install sentence-transformers
+  pip install scikit-learn
 3. Run the GUI application `UI/app/main_with_rag.py`.
 
 ## Notes
